@@ -1,6 +1,5 @@
 <h1>Hi, I'm Sree Yuktha! </h1>
 
----
 
 Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | Data Scientist]** with hands-on experience in solving real-world challenges using data and intelligent systems.
 
