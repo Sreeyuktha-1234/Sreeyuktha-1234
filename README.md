@@ -9,11 +9,9 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 
 🎓 **Master of Science in Artificial Intelligence**   
 [University Of North Texas]  
-📅 [Aug 2023] – [Dec 2024]
 
 🎓 **Bachelor of Technology in Computer Science**  
 [Hindustan University]  
-📅 [June 2018] – [May 2022]
 
 ---
 
@@ -43,7 +41,7 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sreeyukthasunkara/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/your-github-username](https://github.com/Sreeyuktha-1234))  
-📧 sunkarasreeyuktha99@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/your-github-username]([https://github.com/Sreeyuktha-1234](https://www.linkedin.com/in/yukthas/)))  
+📧 yukthacareer@gmail.com
 
 
