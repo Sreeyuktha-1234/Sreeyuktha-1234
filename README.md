@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 - Machine Learning (Supervised & Unsupervised)  
 - Deep Learning (CNNs, Transformers)  
 - Natural Language Processing (NLP)  
-- GenAI (LLMs, Prompt Engineering)  
+- GenAI (LLMs, RAG, Prompt Engineering)  
 - Data Visualisation & BI Tools  
 - MLOps & Cloud (AWS / Azure)
 
@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sreeyukthasunkara/))  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/your-github-username]([https://github.com/Sreeyuktha-1234](https://www.linkedin.com/in/yukthas/)))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-profile]([https://www.linkedin.com/in/yukthas/]))  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)]([https://github.com/your-github-username]([https://github.com/Sreeyuktha-1234]))  
 📧 yukthacareer@gmail.com
 
 
