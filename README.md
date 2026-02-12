@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 [University Of North Texas]  
 
 🎓 **Bachelor of Technology in Computer Science**  
-[Hindustan University]  
+[Hindustan Institute of technology and Science]  
 
 ---
 
