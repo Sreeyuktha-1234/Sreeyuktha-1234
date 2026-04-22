@@ -43,6 +43,6 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yukthas/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Sreeyuktha-1234)
 
-📧 yukthacareer@gmail.com
+📧 sreeyukthas46@gmail.com
 
 
