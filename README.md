@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a passionate and driven **[AI/ML Engineer | D
 
 ## 🌐 Portfolio & Projects
 
-🔗 [Visit My Portfolio](https://sreeyuktha-1234.github.io/AI-ML_Engineer.github.io/)  
+🔗 [Visit My Portfolio](https://my-portfolio-three-umber-53.vercel.app/)  
 🔗 [See My Kaggle](https://www.kaggle.com/yukthasunkara)
 🔗 [Project Highlights Repo](https://github.com/Sreeyuktha-1234/Nodule-Detection-In-Lung)
 
